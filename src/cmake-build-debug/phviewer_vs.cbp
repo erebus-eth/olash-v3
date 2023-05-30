@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="phviewer_vs"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="phviewer_vs">
+				<Option output="/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/phviewer_vs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/nemo/Escritorio/PR1/Ej3/src/."/>
+					<Add directory="/home/nemo/Escritorio/PR1/Ej3/src/glad/glad"/>
+					<Add directory="/home/nemo/Escritorio/PR1/Ej3/src/glad/KHR"/>
+					<Add directory="/home/nemo/Escritorio/PR1/Ej3/src/util"/>
+					<Add directory="/usr/include/c++/12"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/include/c++/12/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 phviewer_vs"/>
+					<CompileFile command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="phviewer_vs/fast">
+				<Option output="/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/phviewer_vs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/nemo/Escritorio/PR1/Ej3/src/."/>
+					<Add directory="/home/nemo/Escritorio/PR1/Ej3/src/glad/glad"/>
+					<Add directory="/home/nemo/Escritorio/PR1/Ej3/src/glad/KHR"/>
+					<Add directory="/home/nemo/Escritorio/PR1/Ej3/src/util"/>
+					<Add directory="/usr/include/c++/12"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/12"/>
+					<Add directory="/usr/include/c++/12/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/12/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 phviewer_vs/fast"/>
+					<CompileFile command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j24 -f &quot;/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/PHViewer.cpp">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/PHViewer.h">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/glad/KHR/khrplatform.h">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/glad/glad.cpp">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/glad/glad/glad.h">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/shaders/fpassthrough.glsl">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/shaders/vpassthrough.glsl">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/util/GLFWWindow.cpp">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/util/GLFWWindow.h">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/util/lodepng.cpp">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/util/lodepng.h">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/util/tb.cpp">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/util/tb.h">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/util/tiny_obj_loader.cpp">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/util/tiny_obj_loader.h">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/util/trackball.cpp">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/util/trackball.h">
+			<Option target="phviewer_vs"/>
+		</Unit>
+		<Unit filename="/home/nemo/Escritorio/PR1/Ej3/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

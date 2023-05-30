@@ -1,0 +1,3 @@
+/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/CMakeFiles/phviewer_vs.dir
+/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nemo/Escritorio/PR1/Ej3/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
